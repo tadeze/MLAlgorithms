@@ -1,4 +1,4 @@
 MLAlgorithms
 ============
 
-Machine Learning algorithm from class assignments 
+Machine Learning algorithm from assignments.
